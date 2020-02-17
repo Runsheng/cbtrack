@@ -11,7 +11,7 @@ bigDataUrl L1.bb
 shortLabel L1
 longLabel L1 stage long read mapping
 type bigGenePred
-visibility full
+visibility squish
 colorByStrand 64,224,208 250,128,114
 
 track EM
@@ -19,7 +19,7 @@ bigDataUrl EM.bb
 shortLabel EM
 longLabel Embryonic stage long read mapping
 type bigGenePred
-visibility full
+visibility squish
 colorByStrand 64,224,208 250,128,114
 
 track YA
@@ -27,5 +27,5 @@ bigDataUrl YA.bb
 shortLabel YA
 longLabel Yong adult stage long read mapping
 type bigGenePred
-visibility full
+visibility squish
 colorByStrand 64,224,208 250,128,114
