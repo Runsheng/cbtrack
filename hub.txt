@@ -1,0 +1,6 @@
+hub cbtrack
+shortLabel cbtrack 
+longLabel Long_read_mapping_track_for_briggsae
+genomesFile genomes.txt
+descriptionUrl cb.html
+email runsheng.lee@gmail.com

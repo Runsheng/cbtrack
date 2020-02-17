@@ -1,0 +1,10 @@
+genome cb4
+trackDb cb4/trackDb.txt
+groups groups.txt
+description Feb. 2018 strain AF16
+twoBitPath cb4/cb4.2bit
+organism Caenorhabditis briggsae
+defaultPos I:1000000-1005000
+orderKey 40
+scientificName Caenorhabditis briggsae
+htmlPath cb4/cb4.html
