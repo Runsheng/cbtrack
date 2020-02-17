@@ -2,7 +2,7 @@ track gene_ws270
 bigDataUrl gene.bb
 shortLabel gene
 longLabel gene annotation from WormBase WS270
-type bigGenePred
+type bigBed
 visibility full
 colorByStrand 64,224,208 250,128,114
 
